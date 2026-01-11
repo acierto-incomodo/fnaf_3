@@ -1,10 +1,10 @@
 [Setup]
 AppName=Five Nights at Freddy's 3 by StormGamesStudios
 AppVersion=1.0.3
-DefaultDirName={userappdata}\StormGamesStudios\NewGameDir\FNAF1
+DefaultDirName={userappdata}\StormGamesStudios\NewGameDir\FNAF3
 DefaultGroupName=StormGamesStudios
 OutputDir=C:\Users\mapsp\Documents\GitHub\fnaf_3\output
-OutputBaseFilename=FNAF1_Launcher_Installer
+OutputBaseFilename=FNAF3_Launcher_Installer
 Compression=lzma
 SolidCompression=yes
 AppCopyright=Copyright © 2025 StormGamesStudios. All rights reserved.
